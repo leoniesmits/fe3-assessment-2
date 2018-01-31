@@ -1,0 +1,18 @@
+body {
+	background-color: #fffbf6;
+}
+
+html, 
+body, 
+#visual {
+	height: 100%;
+    margin: 0;
+}
+
+p {
+	font-family: Arial;
+}
+
+text {
+	margin: 15px;
+}
