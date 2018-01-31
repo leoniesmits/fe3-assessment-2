@@ -1,5 +1,6 @@
 # Assessment 2
 
+[project on pages](https://leoniesmits.github.io/fe3-assessment-2/)
 The second assessment of the subject Front-end 3.
 
 ## Getting started 
