@@ -1,0 +1,22 @@
+<!doctype html>
+<!--http://statline.cbs.nl/statweb/publication/?vw=t&dm=slnl&pa=83679ned&la=nl-->
+<meta charset=utf8>
+<head>
+	<title>@leoniesmits</title>
+	<link rel="shortcut icon" type=image/x-icon href=data:image/x-icon;,>
+	<link rel="stylesheet" href="index.css">
+	<meta content=width=device-width,initial-scale=1 name=viewport>
+</head>
+<body>
+	<form>
+		<p>Selecteer de huishoudens op de volgende kenmerken:</p>
+        <select name="features" id="features">
+            <option value="1" selected>Leeftijd</option>
+            <option value="2">Gezinssamenstelling</option>
+            <option value="3">Herkomst</option>
+        </select>
+    </form>
+    <svg width="960" height="600"></svg>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="index.js"></script>
+</body>
